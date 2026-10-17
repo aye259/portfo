@@ -1,0 +1,6 @@
+.home:hover, .about:hover, .project:hover, .contact:hover{
+    background-color: aliceblue;
+    color: black;
+    font-size: 17px;
+    border-radius: 5px;
+}
